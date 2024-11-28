@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot de Estoque</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Chatbot de Estoque</h1>
+        <div class="chat-container">
+            <div id="chat-box"></div>
+            <form id="chat-form">
+                <input type="text" id="user-input" placeholder="Digite sua pergunta..." autocomplete="off">
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+
+        <div class="train-container">
+            <h2>Treinar o Chatbot</h2>
+            <form id="train-form">
+                <input type="text" id="new-question" placeholder="Nova pergunta" required>
+                <input type="text" id="new-answer" placeholder="Nova resposta" required>
+                <button type="submit">Adicionar</button>
+            </form>
+            <div id="train-message"></div>
+        </div>
+    </div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

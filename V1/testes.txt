@@ -1,0 +1,24 @@
+TESTES
+
+1. Usuário: Oi!
+   Bot: Olá, o que você gostaria de saber?
+
+2. Usuário: Como está o estoque de cadernos?
+   Bot: No momento, temos 15 unidades de caderno em estoque.
+
+3. Usuário: E de lápis?
+   Bot: Desculpe, não temos informações de estoque para lápis.
+
+4. Usuário: Tudo bem, obrigado!
+   Bot: Desculpe, eu não entendi. Poderia repetir, por favor?
+
+5. Usuário: Qual é o estoque de borrachas?
+   Bot: No momento, temos 10 unidades de borracha em estoque.
+
+6. Usuário: Obrigado!
+   Bot: Desculpe, eu não entendi. Poderia repetir, por favor?
+
+7. Usuário: Está bem, adeus!
+   Bot: Desculpe, eu não entendi. Poderia repetir, por favor?
+
+Esta é apenas uma sequência possível. Dependendo da interação do usuário, as respostas do bot podem variar.
